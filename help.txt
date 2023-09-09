@@ -1,4 +1,0 @@
-Install ffmpeg
-https://phoenixnap.com/kb/ffmpeg-windows
-
-pip install pydub

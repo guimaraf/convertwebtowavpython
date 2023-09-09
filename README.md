@@ -24,9 +24,6 @@ The `pydub` library is a convenient Python interface for working with audio file
 pip install pydub
 
 
-
-
-
 ------------------------------------------------------------------------
 
 # Uso das Bibliotecas ffmpeg e pydub
@@ -53,4 +50,3 @@ A biblioteca `pydub` é uma interface Python conveniente para trabalhar com arqu
 
 ## bash ou cmd
 pip install pydub
-
